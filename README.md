@@ -24,3 +24,15 @@ This Logic App enriches IP address IOCs using VirusTotal and AbuseIPDB APIs. Des
 {
   "ip": "8.8.8.8"
 }
+
+## 📸 Screenshots
+
+| Logic App Designer | Postman Test |
+|--------------------|--------------|
+| ![](screenshots/logic-app-designer.png) | ![](screenshots/postman-success-response(1).png) |
+
+## 📄 Full Sample Output
+
+[Click here to view full response](Postman-success-Response full output)
+
+
