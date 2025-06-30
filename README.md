@@ -33,6 +33,6 @@ This Logic App enriches IP address IOCs using VirusTotal and AbuseIPDB APIs. Des
 
 ## 📄 Full Sample Output
 
-[Click here to view full response](Postman-success-Response full output)
+[Click here to view full response](Postman-success-Response full output.json)
 
 
