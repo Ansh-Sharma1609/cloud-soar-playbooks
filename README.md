@@ -20,7 +20,7 @@ This Logic App enriches IP address IOCs using VirusTotal and AbuseIPDB APIs. Des
 
 ## 🔁 Sample Request
 
-```json
+json
 {
   "ip": "8.8.8.8"
 }
